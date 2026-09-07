@@ -8,6 +8,7 @@ const { event } = Astro.props;
 const issues = issuesFor(event);
 const bookings = [...new Set(event.sources.map(source => source.bookingUrl).filter((url): url is string => !!url))];
 const lastCheck = event.sources.map(source => source.checkedAt).sort().at(-1) ?? null;
+const firstSource = event.sources[0];
 ---
 <article class:list={['event-card', { 'event-cancelled': event.status === 'cancelled' }]} data-event-id={event.id}>
   <div class="event-date" aria-label={event.startDate ? dateLabel(event.startDate, 'EEEE d MMMM yyyy') : 'Date to be confirmed'}>
@@ -15,7 +16,7 @@ const lastCheck = event.sources.map(source => source.checkedAt).sort().at(-1) ??
   </div>
   <div class="event-main">
     <div class="event-meta"><span>{event.allDay ? 'All day' : event.startTime ?? 'Time to be confirmed'}</span>{event.endDate && event.endDate !== event.startDate && <span>Until {dateLabel(event.endDate)}</span>}<span>{event.venue ?? 'Venue to be confirmed'}</span></div>
-    <h3>{event.title}</h3>
+    <h3><a href={firstSource.url}>{event.title}</a></h3>
     <div class="tags">{event.categories.map(category => <span class="tag">{category}</span>)}{event.status !== 'scheduled' && <span class="tag status-tag">{event.status.replace('_', ' ')}</span>}</div>
     {event.description && <p class="event-description">{event.description}</p>}
     <div class="event-bottom"><span class="price">{event.price ?? 'Price not listed'}</span><div class="event-links">{bookings.map((url, index) => <a href={url} rel="noopener noreferrer">{bookings.length > 1 ? `Booking option ${index + 1}` : 'Booking details'} <span aria-hidden="true">↗</span></a>)}</div></div>
