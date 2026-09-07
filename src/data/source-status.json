@@ -1,0 +1,74 @@
+[
+  {
+    "id": "chester-bid",
+    "lastAttempt": "2026-09-07T20:19:18.497Z",
+    "lastSuccess": "2026-09-07T20:19:18.497Z",
+    "parserVersion": "1.2.0",
+    "state": "ok",
+    "candidates": 60,
+    "excluded": {
+      "locality": 0,
+      "scope": 0,
+      "expired": 0
+    },
+    "count": 60,
+    "message": "60 current local events verified"
+  },
+  {
+    "id": "telfords-warehouse",
+    "lastAttempt": "2026-09-07T20:19:18.497Z",
+    "lastSuccess": "2026-09-07T20:19:18.497Z",
+    "parserVersion": "1.2.0",
+    "state": "ok",
+    "candidates": 25,
+    "excluded": {
+      "locality": 0,
+      "scope": 0,
+      "expired": 0
+    },
+    "count": 25,
+    "message": "25 current local events verified"
+  },
+  {
+    "id": "that-beer-place",
+    "lastAttempt": "2026-09-07T20:19:18.497Z",
+    "lastSuccess": "2026-09-07T20:19:18.497Z",
+    "parserVersion": "1.2.0",
+    "state": "ok",
+    "candidates": 0,
+    "excluded": {
+      "locality": 0,
+      "scope": 0,
+      "expired": 0
+    },
+    "count": 0,
+    "message": "0 current local events verified"
+  },
+  {
+    "id": "cheshire-swing-cats",
+    "lastAttempt": "2026-09-07T20:19:18.497Z",
+    "lastSuccess": null,
+    "parserVersion": "1.2.0",
+    "state": "error",
+    "count": 0,
+    "message": "Publisher robots rules disallow this collection route"
+  },
+  {
+    "id": "ticketmaster-discovery",
+    "lastAttempt": "2026-09-07T20:19:18.497Z",
+    "lastSuccess": null,
+    "parserVersion": "1.2.0",
+    "state": "not_configured",
+    "count": 0,
+    "message": "Optional provider key not configured"
+  },
+  {
+    "id": "skiddle",
+    "lastAttempt": "2026-09-07T20:19:18.497Z",
+    "lastSuccess": null,
+    "parserVersion": "1.2.0",
+    "state": "not_configured",
+    "count": 0,
+    "message": "Optional provider key not configured"
+  }
+]

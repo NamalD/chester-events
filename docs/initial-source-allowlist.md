@@ -6,10 +6,10 @@ This is the MVP collector allowlist. It intentionally starts with routes that we
 
 | Source ID | Source | Route | Purpose | Notes |
 | --- | --- | --- | --- | --- |
-| `chester-bid` | [Chester BID](https://www.chesterbid.co.uk/events/) | [`/wp-json/tribe/events/v1/events`](https://www.chesterbid.co.uk/wp-json/tribe/events/v1/events?per_page=2) | Broad Chester city-centre events | Tested JSON endpoint. Filter to Chester/Hoole/Handbridge and exclude business networking and children-only events. |
+| `chester-bid` | [Chester BID](https://www.chesterbid.co.uk/events/) | [`/wp-json/tribe/events/v1/events`](https://www.chesterbid.co.uk/wp-json/tribe/events/v1/events?per_page=2) | Broad Chester city-centre events | Tested JSON endpoint. Owner-confirmed Chester-local curation supplies locality when geographic fields are absent; explicit outside locations still reject. Filter to Chester/Hoole/Handbridge and exclude business networking and children-only events. |
 | `telfords-warehouse` | [Telford’s Warehouse](https://www.telfordswarehousechester.com/gigs-live-events-music/) | [`/wp-json/tribe/events/v1/events`](https://www.telfordswarehousechester.com/wp-json/tribe/events/v1/events?per_page=2) | Music, quizzes and participatory events | Tested JSON endpoint. Preserve source ID, canonical link and original time; validate unusual start times. |
 | `that-beer-place` | [That Beer Place](https://thatbeerplace.co.uk/events/) | [`/wp-json/tribe/events/v1/events`](https://thatbeerplace.co.uk/wp-json/tribe/events/v1/events?per_page=2) | Tastings, comedy and music | Tested endpoint returned zero future events. Keep polling: an empty response is valid. |
-| `cheshire-swing-cats` | [Cheshire Swing Cats](https://www.cheshireswingcats.com/events) | Linked individual `?format=ical` downloads | Dance classes, socials and workshops | Individual iCalendar output was tested. Include only events actually in Chester, Hoole or Handbridge. |
+| `cheshire-swing-cats` | [Cheshire Swing Cats](https://www.cheshireswingcats.com/events) | Linked individual `?format=ical` downloads | Dance classes, socials and workshops | Runtime blocked: on 6 September 2026 publisher robots rules disallowed `?format=ical` and `&format=ical`. The collector checks rules and records unavailable status without fetching disallowed downloads. Re-enable collection only if publisher rules permit it. |
 
 ## Enabled when a free key is present
 
@@ -43,3 +43,14 @@ See [future improvements](future-improvements.md) for paid, restricted, partner-
 - Keep raw source facts and provenance so uncertainty labels and merged sources remain explainable.
 - Do not infer price, timezone, end time, venue or event category.
 - Do not include events outside Chester, Hoole or Handbridge.
+
+
+## Implementation access and quality findings (7 September 2026)
+
+- Chester BID: the feed supplies candidates with empty venue/address fields. A robots-checked inspection of [the quiz detail page](https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-09-06/) found a visible venue name but no address or Event JSON-LD location. The owner subsequently confirmed BID’s events are in Chester. Its source configuration now explicitly trusts Chester-local curation when geographic fields are absent, records `localityBasis: source-curation`, and continues to reject explicit outside locations. No venue address is invented.
+- Telford’s Warehouse: supplied address/country fields support locality checks. Unusual advertised times remain flagged, not corrected by guesswork.
+- That Beer Place: an empty valid feed is a successful zero-event result.
+- Swing Cats: the historically tested route is currently blocked as described above; runtime robots enforcement remains mandatory.
+- Reuse: public endpoint access and robots permission establish technical access only. No publisher-specific description/image republication licence or agreement has been established. The site uses short text excerpts and source attribution, with no images; reuse review remains an operational follow-up for publication.
+
+The workflow uses the documented [GitHub schedule timezone field](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#onschedule). Hosted execution and Pages configuration still require verification after publication is authorized.

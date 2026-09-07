@@ -1,0 +1,58 @@
+---
+import '../styles/global.css';
+import EventCard from '../components/EventCard.astro';
+import data from '../data/events.json';
+import statusData from '../data/source-status.json';
+import { categories, type EventRecord, type SourceStatus } from '../lib/model';
+import { sources } from '../lib/sources';
+import { checkedLabel, today } from '../lib/dates';
+import { filteredEvents, readFilters, isCurrent } from '../lib/events';
+const events = data.events as EventRecord[];
+const statuses = statusData as SourceStatus[];
+const initial = filteredEvents(events, readFilters(new URLSearchParams()));
+const undated = events.filter(event => !event.startDate && isCurrent(event));
+const serialized = JSON.stringify(events).replace(/</g, '\\u003c');
+---
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Find your next good day out in Chester, Hoole and Handbridge. Local gigs, dancing, food, culture and community events, with links straight to the source." />
+    <meta name="theme-color" content="#356bc1" />
+    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL.replace(/\/$/, "")}/favicon.svg`} />
+    <title>Chester Events — What’s happening?</title>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#browse">Skip to events</a>
+    <header class="site-header wrap">
+      <a class="brand" href={import.meta.env.BASE_URL} aria-label="Chester Events home"><span class="brand-icon" aria-hidden="true">c<span>e</span><i></i></span><span>chester<span class="brand-second">events</span></span></a>
+      <nav aria-label="Main navigation"><a class="nav-active" href="#browse">What’s on</a><a href="#sources">Sources <span aria-hidden="true">↗</span></a></nav>
+    </header>
+    <main>
+      <section id="browse" class="browse wrap" aria-labelledby="browse-title">
+        <div class="section-top"><div><h1 id="browse-title">What’s happening?</h1></div><div class="view-switch" role="group" aria-label="Event view"><button type="button" data-view="list" aria-pressed="true"><span aria-hidden="true">☷</span> List</button><button type="button" data-view="calendar" aria-pressed="false"><span aria-hidden="true">▦</span> Calendar</button></div></div>
+        <form id="filters" class="filters" aria-label="Filter events">
+          <div class="filter-top"><fieldset class="periods"><legend class="sr-only">Date range</legend>{[['today', 'Today'], ['weekend', 'This weekend'], ['7', 'Next 7 days'], ['30', 'Next 30 days'], ['custom', 'Custom dates']].map(([value, label]) => <label class="period"><input type="radio" name="period" value={value} checked={value === '30'} /><span>{label}</span></label>)}</fieldset><label class="search"><span aria-hidden="true">⌕</span><input name="q" type="search" placeholder="Search events or venues" aria-label="Search events or venues" /></label></div>
+          <div id="custom-dates" class="custom-dates" hidden><label>From <input type="date" name="from" value={today()} required /></label><label>To <input type="date" name="to" value={today()} required /></label><p id="date-error" role="alert"></p></div>
+          <fieldset class="category-filters"><legend>What are you in the mood for? <span>Select a few, or explore everything.</span></legend><div class="category-options">{categories.map(category => <label class:list={['category-option', { 'uncertain-option': category === 'Uncertain details' }]}><input type="checkbox" name="category" value={category} /><span>{category === 'Uncertain details' && <span aria-hidden="true">◇ </span>}{category}<span class="category-check" aria-hidden="true"> ✓</span></span></label>)}</div></fieldset>
+          <div class="filter-actions"><button type="button" id="clear-filters" class="text-button">Reset filters</button><button type="button" id="share" class="text-button">Copy link to this view <span aria-hidden="true">↗</span></button><span id="share-status" role="status"></span></div>
+        </form>
+        <noscript><p class="notice">JavaScript is needed for filters and the calendar. The next 30 days of events from the latest build are listed below.</p></noscript>
+        <section id="calendar-panel" hidden aria-label="Month calendar"><div class="calendar-heading"><button id="prev-month" type="button" aria-label="Previous month">←</button><h3 id="month-title"></h3><button id="next-month" type="button" aria-label="Next month">→</button></div><div class="calendar-weekdays" aria-hidden="true">{['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'].map(day => <span>{day}</span>)}</div><div id="calendar-grid" class="calendar-grid"></div><div class="calendar-note"><p>Choose a day to see its events below.</p><button id="whole-month" type="button" class="text-button">Show whole month</button></div></section>
+        <div class="results-heading"><h3 id="results-title">The next 30 days</h3><span id="result-count" role="status" aria-live="polite">{initial.length} events</span></div>
+        <div id="events-list">{initial.map(event => <EventCard event={event} />)}</div>
+        <div id="empty-state" class="empty-state" hidden={initial.length > 0}><span aria-hidden="true">↗</span><h3>A little quiet here.</h3><p>No events match this view. Try a different date or fewer filters.</p><a href="#sources">Explore the original calendars</a></div>
+        <section id="undated-section" class="undated-section" hidden={!undated.length}><h3>Dates still to be confirmed</h3><p>These listings have no reliable date yet. Check the original source before making plans.</p><div id="undated-list">{undated.map(event => <EventCard event={event} />)}</div></section>
+      </section>
+      <section id="sources" class="source-section" aria-labelledby="sources-title"><div class="wrap"><div class="section-top"><div><p class="eyebrow">LOCAL KNOWLEDGE, OPENLY SHARED</p><h2 id="sources-title">Always check the source.</h2></div><p>Plans can change. Follow the original listing for the latest times, tickets and details.</p></div><div class="source-grid">{sources.map(source => {
+        const status = statuses.find(item => item.id === source.id);
+        return <article class="source-card"><a href={source.url} rel="noopener noreferrer">{source.name}<span aria-hidden="true">↗</span></a><span class:list={['source-state', { 'source-ok': status?.state === 'ok' }]}>{status?.state === 'ok' ? `${status.count} verified events` : status?.state === 'not_configured' ? 'Optional source · not connected' : status?.state === 'error' ? 'Collection unavailable' : 'Not yet checked'}</span><p>{status?.message ?? 'Awaiting the first collection run.'}</p><small>Last success: {checkedLabel(status?.lastSuccess ?? null)}</small></article>;
+      })}</div></div></section>
+    </main>
+    <footer class="site-footer wrap"><a href="https://github.com/NamalD/chester-events">Open source & update history ↗</a><span>{data.lastSuccessfulUpdate ? `Updated ${checkedLabel(data.lastSuccessfulUpdate)}` : 'First update pending'}</span><a href="#top" aria-label="Back to top">Back to top ↑</a></footer>
+    <template id="event-templates">{events.map(event => <EventCard event={event} />)}</template>
+    <script is:inline id="event-data" type="application/json" set:html={serialized}></script>
+    <script>import '../scripts/browse';</script>
+  </body>
+</html>

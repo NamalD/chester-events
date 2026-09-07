@@ -1,0 +1,79 @@
+name: Update and publish Chester Events
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      collect:
+        description: Refresh source data before deploying
+        type: boolean
+        default: true
+  schedule:
+    - cron: '0 2 * * *'
+      timezone: Europe/London
+
+concurrency:
+  group: chester-events-publish
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - run: npm test
+      - name: Restore conditional request cache
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
+        uses: actions/cache@v4
+        with:
+          path: .cache/http
+          key: feeds-${{ github.run_id }}
+          restore-keys: feeds-
+      - name: Collect once (no automatic retry)
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
+        run: npm run collect
+        env:
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          SKIDDLE_API_KEY: ${{ secrets.SKIDDLE_API_KEY }}
+          CHESTER_EVENTS_USER_AGENT: ChesterEventsBot/1.0 (+https://github.com/${{ github.repository }})
+          TZ: Europe/London
+      - run: npm run build
+      - name: Commit generated data
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data/events.json src/data/source-events.json src/data/source-status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh current events and source status'
+            git push
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

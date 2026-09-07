@@ -1,0 +1,4460 @@
+{
+  "schemaVersion": 1,
+  "lastSuccessfulUpdate": "2026-09-07T20:19:18.497Z",
+  "events": [
+    {
+      "id": "4ddc76c57b68e539",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-07",
+      "startTime": "19:30",
+      "startUtc": "2026-09-07T18:30:00.000Z",
+      "endUtc": "2026-09-07T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002256",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-09-07/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-09-07 18:30:00",
+            "utcEnd": "2026-09-07 20:30:00",
+            "start": "2026-09-07 19:30:00",
+            "end": "2026-09-07 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ad0402d236a51091",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-07",
+      "startTime": "20:00",
+      "startUtc": "2026-09-07T19:00:00.000Z",
+      "endUtc": "2026-09-07T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000693",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-09-07/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-09-07 19:00:00",
+            "utcEnd": "2026-09-07 22:00:00",
+            "start": "2026-09-07 20:00:00",
+            "end": "2026-09-07 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d224af7e89812e2a",
+      "title": "The Telford’s Quiz",
+      "description": "Drink and Think £1 per player. 8:30pm start.",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-07",
+      "startTime": "20:30",
+      "startUtc": "2026-09-07T19:30:00.000Z",
+      "endUtc": "2026-09-07T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Community"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5955",
+          "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-222/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Telford’s Quiz",
+            "utcStart": "2026-09-07 19:30:00",
+            "utcEnd": "2026-09-07 21:30:00",
+            "start": "2026-09-07 20:30:00",
+            "end": "2026-09-07 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Quiz",
+              "cheshire",
+              "Chester",
+              "Event",
+              "pub quiz",
+              "quiz",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-21 15:04:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "35b60be8a25ae874",
+      "title": "Maray x tbc*: Community Dinner",
+      "description": "",
+      "startDate": "2026-09-08",
+      "endDate": "2026-09-08",
+      "startTime": "19:00",
+      "startUtc": "2026-09-08T18:00:00.000Z",
+      "endUtc": "2026-09-08T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£70",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "8579",
+          "url": "https://www.chesterbid.co.uk/event/maray-x-tbc-community-dinnermaray-x-tbc/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Maray x tbc*: Community Dinner",
+            "utcStart": "2026-09-08 18:00:00",
+            "utcEnd": "2026-09-08 21:00:00",
+            "start": "2026-09-08 19:00:00",
+            "end": "2026-09-08 22:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£70",
+            "status": null,
+            "modified": "2026-09-04 13:36:59"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e63f742d4b7479b7",
+      "title": "The Paint Republic",
+      "description": "Get Involved (follow the link above) We paint, we drink, we party- This is not a paint class as you know it! Not painted at all or since school? Well why not try it again but this time in a fun, judgement-free and relaxed environment? Join us for an evening of painting, hosted by",
+      "startDate": "2026-09-08",
+      "endDate": "2026-09-08",
+      "startTime": "19:00",
+      "startUtc": "2026-09-08T18:00:00.000Z",
+      "endUtc": "2026-09-08T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5947",
+          "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-91/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Paint Republic",
+            "utcStart": "2026-09-08 18:00:00",
+            "utcEnd": "2026-09-08 20:00:00",
+            "start": "2026-09-08 19:00:00",
+            "end": "2026-09-08 21:00:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "cheshire",
+              "Chester",
+              "Event",
+              "paint republic",
+              "party",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-14 14:33:22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "76fad3dd2bd7ae2c",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-09",
+      "startTime": "18:00",
+      "startUtc": "2026-09-09T17:00:00.000Z",
+      "endUtc": "2026-09-09T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000300",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-09-09/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-09-09 17:00:00",
+            "utcEnd": "2026-09-09 20:00:00",
+            "start": "2026-09-09 18:00:00",
+            "end": "2026-09-09 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2a089914070b035f",
+      "title": "The Weekenders",
+      "description": "Tickets £4 (See Link Above)",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "startTime": "08:00",
+      "startUtc": "2026-09-11T07:00:00.000Z",
+      "endUtc": "2026-09-11T22:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Unusual start time — check source"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5943",
+          "url": "https://www.telfordswarehousechester.com/event/the-weekenders/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Weekenders",
+            "utcStart": "2026-09-11 07:00:00",
+            "utcEnd": "2026-09-11 22:30:00",
+            "start": "2026-09-11 08:00:00",
+            "end": "2026-09-11 23:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "cheshire",
+              "Chester",
+              "covers",
+              "Event",
+              "Gig",
+              "guitar",
+              "Music",
+              "rock",
+              "Telford's Warehouse",
+              "the weekenders"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-14 14:05:43"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dc009c20d57422fd",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-13",
+      "startTime": "19:00",
+      "startUtc": "2026-09-13T18:00:00.000Z",
+      "endUtc": "2026-09-13T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001889",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-09-13/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-09-13 18:00:00",
+            "utcEnd": "2026-09-13 20:30:00",
+            "start": "2026-09-13 19:00:00",
+            "end": "2026-09-13 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "62eba05ad44c54a4",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-14",
+      "startTime": "19:30",
+      "startUtc": "2026-09-14T18:30:00.000Z",
+      "endUtc": "2026-09-14T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002257",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-09-14/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-09-14 18:30:00",
+            "utcEnd": "2026-09-14 20:30:00",
+            "start": "2026-09-14 19:30:00",
+            "end": "2026-09-14 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "959656daec366a94",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-14",
+      "startTime": "20:00",
+      "startUtc": "2026-09-14T19:00:00.000Z",
+      "endUtc": "2026-09-14T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000694",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-09-14/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-09-14 19:00:00",
+            "utcEnd": "2026-09-14 22:00:00",
+            "start": "2026-09-14 20:00:00",
+            "end": "2026-09-14 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6e4a76c7c55592f0",
+      "title": "The Telford’s Quiz",
+      "description": "Drink and Think £1 per player. 8:30pm start.",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-14",
+      "startTime": "20:30",
+      "startUtc": "2026-09-14T19:30:00.000Z",
+      "endUtc": "2026-09-14T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Community"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5957",
+          "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-223/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Telford’s Quiz",
+            "utcStart": "2026-09-14 19:30:00",
+            "utcEnd": "2026-09-14 21:30:00",
+            "start": "2026-09-14 20:30:00",
+            "end": "2026-09-14 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Quiz",
+              "cheshire",
+              "Chester",
+              "Event",
+              "pub quiz",
+              "quiz",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-21 15:05:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f7d899094b7ac8e2",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-16",
+      "startTime": "18:00",
+      "startUtc": "2026-09-16T17:00:00.000Z",
+      "endUtc": "2026-09-16T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000301",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-09-16/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-09-16 17:00:00",
+            "utcEnd": "2026-09-16 20:00:00",
+            "start": "2026-09-16 18:00:00",
+            "end": "2026-09-16 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8868306d21a37eb3",
+      "title": "Nearly Young",
+      "description": "Tickets £5 (See Link Above)",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "startTime": "20:00",
+      "startUtc": "2026-09-18T19:00:00.000Z",
+      "endUtc": "2026-09-18T22:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5952",
+          "url": "https://www.telfordswarehousechester.com/event/nearly-young-3/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "Nearly Young",
+            "utcStart": "2026-09-18 19:00:00",
+            "utcEnd": "2026-09-18 22:30:00",
+            "start": "2026-09-18 20:00:00",
+            "end": "2026-09-18 23:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "cheshire",
+              "Chester",
+              "Event",
+              "Gig",
+              "guitar",
+              "Music",
+              "nearly young",
+              "Telford's Warehouse",
+              "tribute"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-21 15:02:06"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6054a70e79bcd5cc",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-20",
+      "startTime": "19:00",
+      "startUtc": "2026-09-20T18:00:00.000Z",
+      "endUtc": "2026-09-20T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001890",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-09-20/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-09-20 18:00:00",
+            "utcEnd": "2026-09-20 20:30:00",
+            "start": "2026-09-20 19:00:00",
+            "end": "2026-09-20 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c278f218dc332dd1",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "startTime": "19:30",
+      "startUtc": "2026-09-21T18:30:00.000Z",
+      "endUtc": "2026-09-21T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002258",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-09-21/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-09-21 18:30:00",
+            "utcEnd": "2026-09-21 20:30:00",
+            "start": "2026-09-21 19:30:00",
+            "end": "2026-09-21 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "113bf5ab2d3167cb",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "startTime": "20:00",
+      "startUtc": "2026-09-21T19:00:00.000Z",
+      "endUtc": "2026-09-21T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000695",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-09-21/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-09-21 19:00:00",
+            "utcEnd": "2026-09-21 22:00:00",
+            "start": "2026-09-21 20:00:00",
+            "end": "2026-09-21 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3c6f76c80157bfc1",
+      "title": "The Telford’s Quiz",
+      "description": "Drink and Think £1 per player. 8:30pm start.",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "startTime": "20:30",
+      "startUtc": "2026-09-21T19:30:00.000Z",
+      "endUtc": "2026-09-21T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Community"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5959",
+          "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-224/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Telford’s Quiz",
+            "utcStart": "2026-09-21 19:30:00",
+            "utcEnd": "2026-09-21 21:30:00",
+            "start": "2026-09-21 20:30:00",
+            "end": "2026-09-21 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Quiz",
+              "cheshire",
+              "Chester",
+              "Event",
+              "pub quiz",
+              "quiz",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-21 15:06:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "83089b6128d94926",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "startTime": "18:00",
+      "startUtc": "2026-09-23T17:00:00.000Z",
+      "endUtc": "2026-09-23T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000302",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-09-23/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-09-23 17:00:00",
+            "utcEnd": "2026-09-23 20:00:00",
+            "start": "2026-09-23 18:00:00",
+            "end": "2026-09-23 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "302b9edec9b97006",
+      "title": "The BIG Preloved Weekender",
+      "description": "",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-27",
+      "startTime": null,
+      "startUtc": null,
+      "endUtc": null,
+      "timezone": "Europe/London",
+      "allDay": true,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "8001",
+          "url": "https://www.chesterbid.co.uk/event/the-big-preloved-weekender/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The BIG Preloved Weekender",
+            "utcStart": "2026-09-23 23:00:00",
+            "utcEnd": "2026-09-27 22:59:59",
+            "start": "2026-09-24 00:00:00",
+            "end": "2026-09-27 23:59:59",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-09-02 12:12:06"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2c4145d685cd16d9",
+      "title": "C.F. Boneslum",
+      "description": "Tickets £4 (See Link Above)",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-25",
+      "startTime": "20:00",
+      "startUtc": "2026-09-25T19:00:00.000Z",
+      "endUtc": "2026-09-25T22:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5983",
+          "url": "https://www.telfordswarehousechester.com/event/c-f-boneslum-2/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "C.F. Boneslum",
+            "utcStart": "2026-09-25 19:00:00",
+            "utcEnd": "2026-09-25 22:30:00",
+            "start": "2026-09-25 20:00:00",
+            "end": "2026-09-25 23:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "blues",
+              "blues guitar",
+              "blues in chester",
+              "blues rock",
+              "cheshire",
+              "Chester",
+              "Event",
+              "Gig",
+              "guitar",
+              "Music",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:21:11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a202b8728b574873",
+      "title": "Chester Market Charity Quiz",
+      "description": "",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "startTime": "17:00",
+      "startUtc": "2026-09-27T16:00:00.000Z",
+      "endUtc": "2026-09-27T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£3",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "8577",
+          "url": "https://www.chesterbid.co.uk/event/chester-market-charity-quiz/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Chester Market Charity Quiz",
+            "utcStart": "2026-09-27 16:00:00",
+            "utcEnd": "2026-09-27 21:00:00",
+            "start": "2026-09-27 17:00:00",
+            "end": "2026-09-27 22:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£3",
+            "status": null,
+            "modified": "2026-09-04 10:04:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e2731c65376f3f0a",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "startTime": "19:00",
+      "startUtc": "2026-09-27T18:00:00.000Z",
+      "endUtc": "2026-09-27T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001891",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-09-27/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-09-27 18:00:00",
+            "utcEnd": "2026-09-27 20:30:00",
+            "start": "2026-09-27 19:00:00",
+            "end": "2026-09-27 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0250d7a287244047",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "startTime": "19:30",
+      "startUtc": "2026-09-28T18:30:00.000Z",
+      "endUtc": "2026-09-28T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002259",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-09-28/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-09-28 18:30:00",
+            "utcEnd": "2026-09-28 20:30:00",
+            "start": "2026-09-28 19:30:00",
+            "end": "2026-09-28 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ef22264a0d73f63d",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "startTime": "20:00",
+      "startUtc": "2026-09-28T19:00:00.000Z",
+      "endUtc": "2026-09-28T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000696",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-09-28/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-09-28 19:00:00",
+            "utcEnd": "2026-09-28 22:00:00",
+            "start": "2026-09-28 20:00:00",
+            "end": "2026-09-28 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6d357aedae0cb400",
+      "title": "The Telford’s Quiz",
+      "description": "Drink and Think £1 per player. 8:30pm start.",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "startTime": "20:30",
+      "startUtc": "2026-09-28T19:30:00.000Z",
+      "endUtc": "2026-09-28T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Community"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5961",
+          "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-225/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Telford’s Quiz",
+            "utcStart": "2026-09-28 19:30:00",
+            "utcEnd": "2026-09-28 21:30:00",
+            "start": "2026-09-28 20:30:00",
+            "end": "2026-09-28 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Quiz",
+              "cheshire",
+              "Chester",
+              "Event",
+              "pub quiz",
+              "quiz",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-21 15:07:12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7642de20326b5d79",
+      "title": "The Paint Republic",
+      "description": "Get Involved (follow the link above) We paint, we drink, we party- This is not a paint class as you know it! Not painted at all or since school? Well why not try it again but this time in a fun, judgement-free and relaxed environment? Join us for an evening of painting, hosted by",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "startTime": "19:00",
+      "startUtc": "2026-09-29T18:00:00.000Z",
+      "endUtc": "2026-09-29T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5968",
+          "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-92/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Paint Republic",
+            "utcStart": "2026-09-29 18:00:00",
+            "utcEnd": "2026-09-29 20:00:00",
+            "start": "2026-09-29 19:00:00",
+            "end": "2026-09-29 21:00:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "cheshire",
+              "Chester",
+              "Event",
+              "paint",
+              "paint republic",
+              "party",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-28 15:30:58"
+          }
+        }
+      ]
+    },
+    {
+      "id": "27589110818fb025",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "startTime": "18:00",
+      "startUtc": "2026-09-30T17:00:00.000Z",
+      "endUtc": "2026-09-30T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000303",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-09-30/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-09-30 17:00:00",
+            "utcEnd": "2026-09-30 20:00:00",
+            "start": "2026-09-30 18:00:00",
+            "end": "2026-09-30 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "45bcc2375b67e487",
+      "title": "The Vanity Firm",
+      "description": "Tickets £4 (See Link Above)",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-02",
+      "startTime": "20:00",
+      "startUtc": "2026-10-02T19:00:00.000Z",
+      "endUtc": "2026-10-02T22:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5963",
+          "url": "https://www.telfordswarehousechester.com/event/the-vanity-firm-3/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Vanity Firm",
+            "utcStart": "2026-10-02 19:00:00",
+            "utcEnd": "2026-10-02 22:30:00",
+            "start": "2026-10-02 20:00:00",
+            "end": "2026-10-02 23:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "alt rock",
+              "cheshire",
+              "Chester",
+              "Event",
+              "Gig",
+              "guitar",
+              "indie",
+              "indie music",
+              "Music",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-21 16:14:37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "00bca6af55cac954",
+      "title": "Chester Makers Market",
+      "description": "",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "startTime": "10:00",
+      "startUtc": "2026-10-03T09:00:00.000Z",
+      "endUtc": "2026-10-03T15:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000501",
+          "url": "https://www.chesterbid.co.uk/event/chester-makers-market/2026-10-03/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Chester Makers Market",
+            "utcStart": "2026-10-03 09:00:00",
+            "utcEnd": "2026-10-03 15:00:00",
+            "start": "2026-10-03 10:00:00",
+            "end": "2026-10-03 16:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-31 11:52:35"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dd17fadbaa63d9fd",
+      "title": "Samuel Williams – The XL Truth",
+      "description": "Tickets £5 (See Link Above)",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "startTime": "20:00",
+      "startUtc": "2026-10-03T19:00:00.000Z",
+      "endUtc": "2026-10-03T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Arts & Culture"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "6012",
+          "url": "https://www.telfordswarehousechester.com/event/samuel-williams-the-xl-truth/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "Samuel Williams – The XL Truth",
+            "utcStart": "2026-10-03 19:00:00",
+            "utcEnd": "2026-10-03 21:00:00",
+            "start": "2026-10-03 20:00:00",
+            "end": "2026-10-03 22:00:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "cheshire",
+              "Chester",
+              "comedy",
+              "Event",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 15:54:25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1b72331e23461e9f",
+      "title": "Sip, Style & Serenade at Popina",
+      "description": "",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-04",
+      "startTime": "13:30",
+      "startUtc": "2026-10-04T12:30:00.000Z",
+      "endUtc": "2026-10-04T12:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£45",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "8587",
+          "url": "https://www.chesterbid.co.uk/event/sip-style-serenade-at-popina/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Sip, Style & Serenade at Popina",
+            "utcStart": "2026-10-04 12:30:00",
+            "utcEnd": "2026-10-04 12:30:00",
+            "start": "2026-10-04 13:30:00",
+            "end": "2026-10-04 13:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£45",
+            "status": null,
+            "modified": "2026-09-07 08:14:25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "79baace9a1e295aa",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-04",
+      "startTime": "19:00",
+      "startUtc": "2026-10-04T18:00:00.000Z",
+      "endUtc": "2026-10-04T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001892",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-10-04/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-10-04 18:00:00",
+            "utcEnd": "2026-10-04 20:30:00",
+            "start": "2026-10-04 19:00:00",
+            "end": "2026-10-04 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d76b932ff79db0d4",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "startTime": "19:30",
+      "startUtc": "2026-10-05T18:30:00.000Z",
+      "endUtc": "2026-10-05T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002260",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-10-05/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-10-05 18:30:00",
+            "utcEnd": "2026-10-05 20:30:00",
+            "start": "2026-10-05 19:30:00",
+            "end": "2026-10-05 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e50432f1b7468bab",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "startTime": "20:00",
+      "startUtc": "2026-10-05T19:00:00.000Z",
+      "endUtc": "2026-10-05T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000697",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-10-05/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-10-05 19:00:00",
+            "utcEnd": "2026-10-05 22:00:00",
+            "start": "2026-10-05 20:00:00",
+            "end": "2026-10-05 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "643d9070b6044495",
+      "title": "The Telford’s Quiz",
+      "description": "Drink and Think £1 per player. 8:30pm start.",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "startTime": "20:30",
+      "startUtc": "2026-10-05T19:30:00.000Z",
+      "endUtc": "2026-10-05T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music",
+        "Community"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "6004",
+          "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-226/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Telford’s Quiz",
+            "utcStart": "2026-10-05 19:30:00",
+            "utcEnd": "2026-10-05 21:30:00",
+            "start": "2026-10-05 20:30:00",
+            "end": "2026-10-05 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "cheshire",
+              "Chester",
+              "Event",
+              "pub quiz",
+              "quiz",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:46:38"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7387f3254f91bd3d",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-07",
+      "startTime": "18:00",
+      "startUtc": "2026-10-07T17:00:00.000Z",
+      "endUtc": "2026-10-07T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000304",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-10-07/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-10-07 17:00:00",
+            "utcEnd": "2026-10-07 20:00:00",
+            "start": "2026-10-07 18:00:00",
+            "end": "2026-10-07 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3f9aff9177630e65",
+      "title": "Aynsley Lister",
+      "description": "Tickets £18 (See Link Above)",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-07",
+      "startTime": "19:00",
+      "startUtc": "2026-10-07T18:00:00.000Z",
+      "endUtc": "2026-10-07T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5972",
+          "url": "https://www.telfordswarehousechester.com/event/aynsley-lister-3/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "Aynsley Lister",
+            "utcStart": "2026-10-07 18:00:00",
+            "utcEnd": "2026-10-07 21:30:00",
+            "start": "2026-10-07 19:00:00",
+            "end": "2026-10-07 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "Aynsley Lister",
+              "blues",
+              "blues guitar",
+              "blues in chester",
+              "blues rock",
+              "cheshire",
+              "Chester",
+              "Event",
+              "Gig",
+              "guitar",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-04 15:08:19"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e67079a80f6b07f7",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "startTime": "19:00",
+      "startUtc": "2026-10-11T18:00:00.000Z",
+      "endUtc": "2026-10-11T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001893",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-10-11/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-10-11 18:00:00",
+            "utcEnd": "2026-10-11 20:30:00",
+            "start": "2026-10-11 19:00:00",
+            "end": "2026-10-11 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "67cb094d146e48b7",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-12",
+      "startTime": "19:30",
+      "startUtc": "2026-10-12T18:30:00.000Z",
+      "endUtc": "2026-10-12T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002261",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-10-12/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-10-12 18:30:00",
+            "utcEnd": "2026-10-12 20:30:00",
+            "start": "2026-10-12 19:30:00",
+            "end": "2026-10-12 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "930d84d5546e3887",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-12",
+      "startTime": "20:00",
+      "startUtc": "2026-10-12T19:00:00.000Z",
+      "endUtc": "2026-10-12T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000698",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-10-12/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-10-12 19:00:00",
+            "utcEnd": "2026-10-12 22:00:00",
+            "start": "2026-10-12 20:00:00",
+            "end": "2026-10-12 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f4dd3d6bfa9105c4",
+      "title": "The Telford’s Quiz",
+      "description": "Drink and Think £1 per player. 8:30pm start.",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-12",
+      "startTime": "20:30",
+      "startUtc": "2026-10-12T19:30:00.000Z",
+      "endUtc": "2026-10-12T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Community"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "6006",
+          "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-227/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Telford’s Quiz",
+            "utcStart": "2026-10-12 19:30:00",
+            "utcEnd": "2026-10-12 21:30:00",
+            "start": "2026-10-12 20:30:00",
+            "end": "2026-10-12 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Quiz",
+              "cheshire",
+              "Chester",
+              "Event",
+              "pub quiz",
+              "quiz",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:48:27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4446476bda8dbb94",
+      "title": "The Paint Republic",
+      "description": "Get Involved (follow the link above) We paint, we drink, we party- This is not a paint class as you know it! Not painted at all or since school? Well why not try it again but this time in a fun, judgement-free and relaxed environment? Join us for an evening of painting, hosted by",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-13",
+      "startTime": "19:00",
+      "startUtc": "2026-10-13T18:00:00.000Z",
+      "endUtc": "2026-10-13T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5976",
+          "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-94/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Paint Republic",
+            "utcStart": "2026-10-13 18:00:00",
+            "utcEnd": "2026-10-13 20:00:00",
+            "start": "2026-10-13 19:00:00",
+            "end": "2026-10-13 21:00:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "cheshire",
+              "Chester",
+              "Event",
+              "paint",
+              "paint republic",
+              "party",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-04 15:29:06"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4fa53d314c63b794",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "startTime": "18:00",
+      "startUtc": "2026-10-14T17:00:00.000Z",
+      "endUtc": "2026-10-14T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000305",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-10-14/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-10-14 17:00:00",
+            "utcEnd": "2026-10-14 20:00:00",
+            "start": "2026-10-14 18:00:00",
+            "end": "2026-10-14 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "48a278d6224f0b69",
+      "title": "John Bramwell",
+      "description": "Tickets £25 (See Link Above)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "startTime": "19:00",
+      "startUtc": "2026-10-14T18:00:00.000Z",
+      "endUtc": "2026-10-14T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5903",
+          "url": "https://www.telfordswarehousechester.com/event/john-bramwell-2/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "John Bramwell",
+            "utcStart": "2026-10-14 18:00:00",
+            "utcEnd": "2026-10-14 21:00:00",
+            "start": "2026-10-14 19:00:00",
+            "end": "2026-10-14 22:00:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "cheshire",
+              "Chester",
+              "Event",
+              "folk",
+              "folk music",
+              "Gig",
+              "guitar",
+              "John Bramwell",
+              "Music",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-06-09 12:40:04"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dfb8c8246fac9279",
+      "title": "Henry Albert Smith",
+      "description": "Tickets £4 (See Link Above)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "startTime": "20:00",
+      "startUtc": "2026-10-16T19:00:00.000Z",
+      "endUtc": "2026-10-16T22:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5986",
+          "url": "https://www.telfordswarehousechester.com/event/henry-albert-smith/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "Henry Albert Smith",
+            "utcStart": "2026-10-16 19:00:00",
+            "utcEnd": "2026-10-16 22:30:00",
+            "start": "2026-10-16 20:00:00",
+            "end": "2026-10-16 23:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "cheshire",
+              "Chester",
+              "Event",
+              "Gig",
+              "guitar",
+              "Henry Albert Smith",
+              "Music",
+              "rock",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:23:22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "10b70c8de5ff52e1",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-18",
+      "startTime": "19:00",
+      "startUtc": "2026-10-18T18:00:00.000Z",
+      "endUtc": "2026-10-18T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001894",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-10-18/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-10-18 18:00:00",
+            "utcEnd": "2026-10-18 20:30:00",
+            "start": "2026-10-18 19:00:00",
+            "end": "2026-10-18 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff9d342bd228306d",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-19",
+      "startTime": "19:30",
+      "startUtc": "2026-10-19T18:30:00.000Z",
+      "endUtc": "2026-10-19T20:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002262",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-10-19/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-10-19 18:30:00",
+            "utcEnd": "2026-10-19 20:30:00",
+            "start": "2026-10-19 19:30:00",
+            "end": "2026-10-19 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "72aec28be83e1180",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-19",
+      "startTime": "20:00",
+      "startUtc": "2026-10-19T19:00:00.000Z",
+      "endUtc": "2026-10-19T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000699",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-10-19/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-10-19 19:00:00",
+            "utcEnd": "2026-10-19 22:00:00",
+            "start": "2026-10-19 20:00:00",
+            "end": "2026-10-19 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9f791fbbe25f5df6",
+      "title": "The Telford’s Quiz",
+      "description": "Drink and Think £1 per player. 8:30pm start.",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-19",
+      "startTime": "20:30",
+      "startUtc": "2026-10-19T19:30:00.000Z",
+      "endUtc": "2026-10-19T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Community"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "6008",
+          "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-228/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Telford’s Quiz",
+            "utcStart": "2026-10-19 19:30:00",
+            "utcEnd": "2026-10-19 21:30:00",
+            "start": "2026-10-19 20:30:00",
+            "end": "2026-10-19 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Quiz",
+              "cheshire",
+              "Chester",
+              "Event",
+              "pub quiz",
+              "quiz",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:49:39"
+          }
+        }
+      ]
+    },
+    {
+      "id": "99042a4c49711ed2",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-21",
+      "startTime": "18:00",
+      "startUtc": "2026-10-21T17:00:00.000Z",
+      "endUtc": "2026-10-21T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000306",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-10-21/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-10-21 17:00:00",
+            "utcEnd": "2026-10-21 20:00:00",
+            "start": "2026-10-21 18:00:00",
+            "end": "2026-10-21 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "602fbf0c0d71472d",
+      "title": "Shentaloes",
+      "description": "Tickets £4 (See Link Above)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "startTime": "20:00",
+      "startUtc": "2026-10-23T19:00:00.000Z",
+      "endUtc": "2026-10-23T22:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5989",
+          "url": "https://www.telfordswarehousechester.com/event/shentaloes/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "Shentaloes",
+            "utcStart": "2026-10-23 19:00:00",
+            "utcEnd": "2026-10-23 22:30:00",
+            "start": "2026-10-23 20:00:00",
+            "end": "2026-10-23 23:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "americana",
+              "cheshire",
+              "Chester",
+              "Event",
+              "Gig",
+              "guitar",
+              "indie music",
+              "Music",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:25:20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6fdc1421c0437c1a",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-25",
+      "startTime": "19:00",
+      "startUtc": "2026-10-25T19:00:00.000Z",
+      "endUtc": "2026-10-25T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001895",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-10-25/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-10-25 19:00:00",
+            "utcEnd": "2026-10-25 21:30:00",
+            "start": "2026-10-25 19:00:00",
+            "end": "2026-10-25 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8e5e3d77d2de5882",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-26",
+      "startTime": "19:30",
+      "startUtc": "2026-10-26T19:30:00.000Z",
+      "endUtc": "2026-10-26T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002263",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-10-26/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-10-26 19:30:00",
+            "utcEnd": "2026-10-26 21:30:00",
+            "start": "2026-10-26 19:30:00",
+            "end": "2026-10-26 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3d4339019649418",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-26",
+      "startTime": "20:00",
+      "startUtc": "2026-10-26T20:00:00.000Z",
+      "endUtc": "2026-10-26T23:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000700",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-10-26/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-10-26 20:00:00",
+            "utcEnd": "2026-10-26 23:00:00",
+            "start": "2026-10-26 20:00:00",
+            "end": "2026-10-26 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6d35248125334ccd",
+      "title": "The Telford’s Quiz",
+      "description": "Drink and Think £1 per player. 8:30pm start.",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-26",
+      "startTime": "20:30",
+      "startUtc": "2026-10-26T20:30:00.000Z",
+      "endUtc": "2026-10-26T22:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Community"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "6010",
+          "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-229/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Telford’s Quiz",
+            "utcStart": "2026-10-26 20:30:00",
+            "utcEnd": "2026-10-26 22:30:00",
+            "start": "2026-10-26 20:30:00",
+            "end": "2026-10-26 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Quiz",
+              "cheshire",
+              "Chester",
+              "Event",
+              "pub quiz",
+              "quiz",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:50:52"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f8ac7ccd1e139b34",
+      "title": "The Paint Republic",
+      "description": "Get Involved (follow the link above) We paint, we drink, we party- This is not a paint class as you know it! Not painted at all or since school? Well why not try it again but this time in a fun, judgement-free and relaxed environment? Join us for an evening of painting, hosted by",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "startTime": "19:00",
+      "startUtc": "2026-10-27T19:00:00.000Z",
+      "endUtc": "2026-10-27T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5978",
+          "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-95/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Paint Republic",
+            "utcStart": "2026-10-27 19:00:00",
+            "utcEnd": "2026-10-27 21:00:00",
+            "start": "2026-10-27 19:00:00",
+            "end": "2026-10-27 21:00:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "cheshire",
+              "Chester",
+              "Event",
+              "paint",
+              "paint republic",
+              "party",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-04 15:30:09"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6a3727cc640b60cb",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "startTime": "18:00",
+      "startUtc": "2026-10-28T18:00:00.000Z",
+      "endUtc": "2026-10-28T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000307",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-10-28/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-10-28 18:00:00",
+            "utcEnd": "2026-10-28 21:00:00",
+            "start": "2026-10-28 18:00:00",
+            "end": "2026-10-28 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "28346d234951135e",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "startTime": "19:00",
+      "startUtc": "2026-11-01T19:00:00.000Z",
+      "endUtc": "2026-11-01T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001896",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-11-01/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-11-01 19:00:00",
+            "utcEnd": "2026-11-01 21:30:00",
+            "start": "2026-11-01 19:00:00",
+            "end": "2026-11-01 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fb0186394198c635",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "startTime": "19:30",
+      "startUtc": "2026-11-02T19:30:00.000Z",
+      "endUtc": "2026-11-02T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002264",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-11-02/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-11-02 19:30:00",
+            "utcEnd": "2026-11-02 21:30:00",
+            "start": "2026-11-02 19:30:00",
+            "end": "2026-11-02 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e671f6de310a1b3c",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "startTime": "20:00",
+      "startUtc": "2026-11-02T20:00:00.000Z",
+      "endUtc": "2026-11-02T23:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000701",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-11-02/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-11-02 20:00:00",
+            "utcEnd": "2026-11-02 23:00:00",
+            "start": "2026-11-02 20:00:00",
+            "end": "2026-11-02 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a6402ab34649304e",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "startTime": "18:00",
+      "startUtc": "2026-11-04T18:00:00.000Z",
+      "endUtc": "2026-11-04T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000308",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-11-04/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-11-04 18:00:00",
+            "utcEnd": "2026-11-04 21:00:00",
+            "start": "2026-11-04 18:00:00",
+            "end": "2026-11-04 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "17190733f3bbc9a1",
+      "title": "Chester Makers Market",
+      "description": "",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "startTime": "10:00",
+      "startUtc": "2026-11-07T10:00:00.000Z",
+      "endUtc": "2026-11-07T16:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000502",
+          "url": "https://www.chesterbid.co.uk/event/chester-makers-market/2026-11-07/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Chester Makers Market",
+            "utcStart": "2026-11-07 10:00:00",
+            "utcEnd": "2026-11-07 16:00:00",
+            "start": "2026-11-07 10:00:00",
+            "end": "2026-11-07 16:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-31 11:52:35"
+          }
+        }
+      ]
+    },
+    {
+      "id": "63e21eaee7675489",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "startTime": "19:00",
+      "startUtc": "2026-11-08T19:00:00.000Z",
+      "endUtc": "2026-11-08T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001897",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-11-08/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-11-08 19:00:00",
+            "utcEnd": "2026-11-08 21:30:00",
+            "start": "2026-11-08 19:00:00",
+            "end": "2026-11-08 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ec862394f3a72bd1",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "startTime": "19:30",
+      "startUtc": "2026-11-09T19:30:00.000Z",
+      "endUtc": "2026-11-09T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002265",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-11-09/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-11-09 19:30:00",
+            "utcEnd": "2026-11-09 21:30:00",
+            "start": "2026-11-09 19:30:00",
+            "end": "2026-11-09 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dce9b0c206466e1d",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "startTime": "20:00",
+      "startUtc": "2026-11-09T20:00:00.000Z",
+      "endUtc": "2026-11-09T23:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000702",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-11-09/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-11-09 20:00:00",
+            "utcEnd": "2026-11-09 23:00:00",
+            "start": "2026-11-09 20:00:00",
+            "end": "2026-11-09 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1c33bf67ed6e4ba5",
+      "title": "The Paint Republic",
+      "description": "Get Involved (follow the link above) We paint, we drink, we party- This is not a paint class as you know it! Not painted at all or since school? Well why not try it again but this time in a fun, judgement-free and relaxed environment? Join us for an evening of painting, hosted by",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "startTime": "19:00",
+      "startUtc": "2026-11-10T19:00:00.000Z",
+      "endUtc": "2026-11-10T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5998",
+          "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-96/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Paint Republic",
+            "utcStart": "2026-11-10 19:00:00",
+            "utcEnd": "2026-11-10 21:30:00",
+            "start": "2026-11-10 19:00:00",
+            "end": "2026-11-10 21:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "cheshire",
+              "Chester",
+              "Event",
+              "paint",
+              "paint republic",
+              "party",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:38:10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2e39b4cddef3e547",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "startTime": "18:00",
+      "startUtc": "2026-11-11T18:00:00.000Z",
+      "endUtc": "2026-11-11T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000309",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-11-11/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-11-11 18:00:00",
+            "utcEnd": "2026-11-11 21:00:00",
+            "start": "2026-11-11 18:00:00",
+            "end": "2026-11-11 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5b693f5dc4b432f4",
+      "title": "Scarper",
+      "description": "Tickets £4 (See Link Above)",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "startTime": "20:00",
+      "startUtc": "2026-11-12T20:00:00.000Z",
+      "endUtc": "2026-11-12T22:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5992",
+          "url": "https://www.telfordswarehousechester.com/event/scarper/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "Scarper",
+            "utcStart": "2026-11-12 20:00:00",
+            "utcEnd": "2026-11-12 22:30:00",
+            "start": "2026-11-12 20:00:00",
+            "end": "2026-11-12 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "cheshire",
+              "Chester",
+              "Event",
+              "Gig",
+              "guitar",
+              "Music",
+              "rock",
+              "scarper",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:29:38"
+          }
+        }
+      ]
+    },
+    {
+      "id": "827b64f0937d3a2b",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "startTime": "19:00",
+      "startUtc": "2026-11-15T19:00:00.000Z",
+      "endUtc": "2026-11-15T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001898",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-11-15/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-11-15 19:00:00",
+            "utcEnd": "2026-11-15 21:30:00",
+            "start": "2026-11-15 19:00:00",
+            "end": "2026-11-15 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7152457c6ec670ef",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-16",
+      "startTime": "19:30",
+      "startUtc": "2026-11-16T19:30:00.000Z",
+      "endUtc": "2026-11-16T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002266",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-11-16/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-11-16 19:30:00",
+            "utcEnd": "2026-11-16 21:30:00",
+            "start": "2026-11-16 19:30:00",
+            "end": "2026-11-16 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "783e82fc6da6ab15",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-16",
+      "startTime": "20:00",
+      "startUtc": "2026-11-16T20:00:00.000Z",
+      "endUtc": "2026-11-16T23:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000703",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-11-16/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-11-16 20:00:00",
+            "utcEnd": "2026-11-16 23:00:00",
+            "start": "2026-11-16 20:00:00",
+            "end": "2026-11-16 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2f95441cc13f4d33",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "startTime": "18:00",
+      "startUtc": "2026-11-18T18:00:00.000Z",
+      "endUtc": "2026-11-18T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000310",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-11-18/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-11-18 18:00:00",
+            "utcEnd": "2026-11-18 21:00:00",
+            "start": "2026-11-18 18:00:00",
+            "end": "2026-11-18 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "56911c8d32c225e2",
+      "title": "12 Days of Christmas Parade",
+      "description": "",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "startTime": "19:00",
+      "startUtc": "2026-11-19T19:00:00.000Z",
+      "endUtc": "2026-11-19T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "Free",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "5684",
+          "url": "https://www.chesterbid.co.uk/event/12-days-of-christmas-parade/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "12 Days of Christmas Parade",
+            "utcStart": "2026-11-19 19:00:00",
+            "utcEnd": "2026-11-19 20:00:00",
+            "start": "2026-11-19 19:00:00",
+            "end": "2026-11-19 20:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [
+              "Christmas"
+            ],
+            "price": "Free",
+            "status": null,
+            "modified": "2026-09-02 15:06:29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a2c57d06d25875af",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "startTime": "19:00",
+      "startUtc": "2026-11-22T19:00:00.000Z",
+      "endUtc": "2026-11-22T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001899",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-11-22/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-11-22 19:00:00",
+            "utcEnd": "2026-11-22 21:30:00",
+            "start": "2026-11-22 19:00:00",
+            "end": "2026-11-22 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "52985f6b18bed85f",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "startTime": "19:30",
+      "startUtc": "2026-11-23T19:30:00.000Z",
+      "endUtc": "2026-11-23T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002267",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-11-23/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-11-23 19:30:00",
+            "utcEnd": "2026-11-23 21:30:00",
+            "start": "2026-11-23 19:30:00",
+            "end": "2026-11-23 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0edd1f24e9016db5",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "startTime": "20:00",
+      "startUtc": "2026-11-23T20:00:00.000Z",
+      "endUtc": "2026-11-23T23:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000704",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-11-23/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-11-23 20:00:00",
+            "utcEnd": "2026-11-23 23:00:00",
+            "start": "2026-11-23 20:00:00",
+            "end": "2026-11-23 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "05e083f121654f96",
+      "title": "The Paint Republic",
+      "description": "Get Involved (follow the link above) We paint, we drink, we party- This is not a paint class as you know it! Not painted at all or since school? Well why not try it again but this time in a fun, judgement-free and relaxed environment? Join us for an evening of painting, hosted by",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-24",
+      "startTime": "19:00",
+      "startUtc": "2026-11-24T19:00:00.000Z",
+      "endUtc": "2026-11-24T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "6000",
+          "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-97/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "The Paint Republic",
+            "utcStart": "2026-11-24 19:00:00",
+            "utcEnd": "2026-11-24 21:30:00",
+            "start": "2026-11-24 19:00:00",
+            "end": "2026-11-24 21:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "cheshire",
+              "Chester",
+              "Event",
+              "paint",
+              "paint republic",
+              "party",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:39:43"
+          }
+        }
+      ]
+    },
+    {
+      "id": "077904543a534ec7",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "startTime": "18:00",
+      "startUtc": "2026-11-25T18:00:00.000Z",
+      "endUtc": "2026-11-25T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000311",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-11-25/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-11-25 18:00:00",
+            "utcEnd": "2026-11-25 21:00:00",
+            "start": "2026-11-25 18:00:00",
+            "end": "2026-11-25 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "38e648069e658380",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "startTime": "19:00",
+      "startUtc": "2026-11-29T19:00:00.000Z",
+      "endUtc": "2026-11-29T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001900",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-11-29/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-11-29 19:00:00",
+            "utcEnd": "2026-11-29 21:30:00",
+            "start": "2026-11-29 19:00:00",
+            "end": "2026-11-29 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ed6f2a76ad11e772",
+      "title": "The Coach House Quiz Night",
+      "description": "",
+      "startDate": "2026-11-30",
+      "endDate": "2026-11-30",
+      "startTime": "19:30",
+      "startUtc": "2026-11-30T19:30:00.000Z",
+      "endUtc": "2026-11-30T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£1",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10002268",
+          "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-11-30/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "The Coach House Quiz Night",
+            "utcStart": "2026-11-30 19:30:00",
+            "utcEnd": "2026-11-30 21:30:00",
+            "start": "2026-11-30 19:30:00",
+            "end": "2026-11-30 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£1",
+            "status": null,
+            "modified": "2026-05-18 08:19:55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6cde9efc370de227",
+      "title": "Quiz Night at the Liverpool Arms",
+      "description": "",
+      "startDate": "2026-11-30",
+      "endDate": "2026-11-30",
+      "startTime": "20:00",
+      "startUtc": "2026-11-30T20:00:00.000Z",
+      "endUtc": "2026-11-30T23:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000705",
+          "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-11-30/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Quiz Night at the Liverpool Arms",
+            "utcStart": "2026-11-30 20:00:00",
+            "utcEnd": "2026-11-30 23:00:00",
+            "start": "2026-11-30 20:00:00",
+            "end": "2026-11-30 23:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-10 10:16:15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8c5350eceaed5328",
+      "title": "Martyn Joseph",
+      "description": "Tickets £24 (See Link Above)",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "startTime": "19:00",
+      "startUtc": "2026-12-01T19:00:00.000Z",
+      "endUtc": "2026-12-01T22:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": "Telford’s Warehouse",
+      "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Music"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "telfords-warehouse",
+          "sourceEventId": "5995",
+          "url": "https://www.telfordswarehousechester.com/event/martyn-joseph-6/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "original": {
+            "title": "Martyn Joseph",
+            "utcStart": "2026-12-01 19:00:00",
+            "utcEnd": "2026-12-01 22:30:00",
+            "start": "2026-12-01 19:00:00",
+            "end": "2026-12-01 22:30:00",
+            "timezone": "Europe/London",
+            "venue": "Telford’s Warehouse",
+            "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
+            "categories": [
+              "Events",
+              "Gigs",
+              "Live music",
+              "acoustic",
+              "cheshire",
+              "Chester",
+              "Event",
+              "folk",
+              "folk music",
+              "Gig",
+              "guitar",
+              "Martyn Joseph",
+              "Music",
+              "Telford's Warehouse"
+            ],
+            "price": null,
+            "status": null,
+            "modified": "2026-08-25 11:34:03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "66ceb22e027e0979",
+      "title": "Cinema Night at Chez Jules",
+      "description": "",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "startTime": "18:00",
+      "startUtc": "2026-12-02T18:00:00.000Z",
+      "endUtc": "2026-12-02T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": "£27.50",
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000312",
+          "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-12-02/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Cinema Night at Chez Jules",
+            "utcStart": "2026-12-02 18:00:00",
+            "utcEnd": "2026-12-02 21:00:00",
+            "start": "2026-12-02 18:00:00",
+            "end": "2026-12-02 21:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": "£27.50",
+            "status": null,
+            "modified": "2026-07-10 09:56:01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dc8863c20fb54fc5",
+      "title": "Chester Makers Market",
+      "description": "",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "startTime": "10:00",
+      "startUtc": "2026-12-05T10:00:00.000Z",
+      "endUtc": "2026-12-05T16:00:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10000503",
+          "url": "https://www.chesterbid.co.uk/event/chester-makers-market/2026-12-05/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "Chester Makers Market",
+            "utcStart": "2026-12-05 10:00:00",
+            "utcEnd": "2026-12-05 16:00:00",
+            "start": "2026-12-05 10:00:00",
+            "end": "2026-12-05 16:00:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2026-07-31 11:52:35"
+          }
+        }
+      ]
+    },
+    {
+      "id": "769d9391f5196df2",
+      "title": "BIG FAT QUIZ ON THE ROOF",
+      "description": "",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "startTime": "19:00",
+      "startUtc": "2026-12-06T19:00:00.000Z",
+      "endUtc": "2026-12-06T21:30:00.000Z",
+      "timezone": "Europe/London",
+      "allDay": false,
+      "venue": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "categories": [
+        "Other"
+      ],
+      "price": null,
+      "status": "scheduled",
+      "issues": [
+        "Venue not listed"
+      ],
+      "stale": false,
+      "seriesId": null,
+      "sources": [
+        {
+          "sourceId": "chester-bid",
+          "sourceEventId": "10001901",
+          "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-12-06/",
+          "bookingUrl": null,
+          "checkedAt": "2026-09-07T20:19:18.497Z",
+          "localityBasis": "source-curation",
+          "original": {
+            "title": "BIG FAT QUIZ ON THE ROOF",
+            "utcStart": "2026-12-06 19:00:00",
+            "utcEnd": "2026-12-06 21:30:00",
+            "start": "2026-12-06 19:00:00",
+            "end": "2026-12-06 21:30:00",
+            "timezone": "Europe/London",
+            "venue": null,
+            "address": null,
+            "categories": [],
+            "price": null,
+            "status": null,
+            "modified": "2025-11-10 10:50:36"
+          }
+        }
+      ]
+    }
+  ]
+}

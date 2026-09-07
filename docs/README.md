@@ -6,6 +6,8 @@ Start with a mixture of direct venue calendars, local listings, and manually sub
 
 ## Research documents
 
+- [Domain glossary and data dictionary](data-dictionary.md): domain terms, Chester BID, implemented fields, status values and data interpretation rules.
+- [Implementation handover](handover.md): current implementation, verification results and remaining work at the requested pause.
 - [Local sources](local-sources.md): venues, organisers, listings, social accounts, and regional options, with collection suggestions and priorities.
 - [Fika, Pink Lettuce and Shrub](priority-vegan-venues.md): priority venues, verified social accounts, website/partner routes, and feed checks.
 - [APIs and providers](apis-and-providers.md): access requirements, practical limitations, and which integrations are worth trying.

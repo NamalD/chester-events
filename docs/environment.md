@@ -25,6 +25,6 @@ The workflow may use the built-in `GITHUB_TOKEN` to commit generated data and de
 | Name | Planned value | Reason |
 | --- | --- | --- |
 | `CHESTER_EVENTS_USER_AGENT` | `ChesterEventsBot/1.0 (+<public-repository-url>)` | Identifies collection requests transparently. The concrete URL is filled in once the GitHub repository exists. |
-| `TZ` | `Europe/London` | Normalises local event presentation and allows a scheduled job to guard for 02:00 London time across daylight-saving changes. |
+| `TZ` | `Europe/London` | Normalises local event presentation. The workflow uses `timezone: Europe/London` for its 02:00 schedule; no separate UTC guard is needed. |
 
 No analytics, authentication, database, mail or runtime service credentials are part of the MVP.
