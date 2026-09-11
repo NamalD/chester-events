@@ -1,8 +1,8 @@
 [
   {
     "id": "chester-bid",
-    "lastAttempt": "2026-09-10T05:43:25.557Z",
-    "lastSuccess": "2026-09-10T05:43:25.557Z",
+    "lastAttempt": "2026-09-11T05:43:06.260Z",
+    "lastSuccess": "2026-09-11T05:43:06.260Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 59,
@@ -16,8 +16,8 @@
   },
   {
     "id": "telfords-warehouse",
-    "lastAttempt": "2026-09-10T05:43:25.557Z",
-    "lastSuccess": "2026-09-10T05:43:25.557Z",
+    "lastAttempt": "2026-09-11T05:43:06.260Z",
+    "lastSuccess": "2026-09-11T05:43:06.260Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 25,
@@ -31,8 +31,8 @@
   },
   {
     "id": "that-beer-place",
-    "lastAttempt": "2026-09-10T05:43:25.557Z",
-    "lastSuccess": "2026-09-10T05:43:25.557Z",
+    "lastAttempt": "2026-09-11T05:43:06.260Z",
+    "lastSuccess": "2026-09-11T05:43:06.260Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 0,
@@ -46,7 +46,7 @@
   },
   {
     "id": "cheshire-swing-cats",
-    "lastAttempt": "2026-09-10T05:43:25.557Z",
+    "lastAttempt": "2026-09-11T05:43:06.260Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "error",
@@ -55,7 +55,7 @@
   },
   {
     "id": "ticketmaster-discovery",
-    "lastAttempt": "2026-09-10T05:43:25.557Z",
+    "lastAttempt": "2026-09-11T05:43:06.260Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
@@ -64,7 +64,7 @@
   },
   {
     "id": "skiddle",
-    "lastAttempt": "2026-09-10T05:43:25.557Z",
+    "lastAttempt": "2026-09-11T05:43:06.260Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
