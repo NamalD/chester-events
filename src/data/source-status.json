@@ -1,8 +1,8 @@
 [
   {
     "id": "chester-bid",
-    "lastAttempt": "2026-09-15T05:58:05.332Z",
-    "lastSuccess": "2026-09-15T05:58:05.332Z",
+    "lastAttempt": "2026-09-16T05:47:10.123Z",
+    "lastSuccess": "2026-09-16T05:47:10.123Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 60,
@@ -16,37 +16,31 @@
   },
   {
     "id": "telfords-warehouse",
-    "lastAttempt": "2026-09-15T05:58:05.332Z",
-    "lastSuccess": "2026-09-15T05:58:05.332Z",
+    "lastAttempt": "2026-09-16T05:47:10.123Z",
+    "lastSuccess": "2026-09-16T05:47:10.123Z",
     "parserVersion": "1.2.0",
     "state": "ok",
-    "candidates": 23,
+    "candidates": 31,
     "excluded": {
       "locality": 0,
       "scope": 0,
       "expired": 0
     },
-    "count": 23,
-    "message": "23 current local events verified"
+    "count": 31,
+    "message": "31 current local events verified"
   },
   {
     "id": "that-beer-place",
-    "lastAttempt": "2026-09-15T05:58:05.332Z",
+    "lastAttempt": "2026-09-16T05:47:10.123Z",
     "lastSuccess": "2026-09-15T05:58:05.332Z",
     "parserVersion": "1.2.0",
-    "state": "ok",
-    "candidates": 0,
-    "excluded": {
-      "locality": 0,
-      "scope": 0,
-      "expired": 0
-    },
+    "state": "error",
     "count": 0,
-    "message": "0 current local events verified"
+    "message": "Publisher returned invalid JSON"
   },
   {
     "id": "cheshire-swing-cats",
-    "lastAttempt": "2026-09-15T05:58:05.332Z",
+    "lastAttempt": "2026-09-16T05:47:10.123Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "error",
@@ -55,7 +49,7 @@
   },
   {
     "id": "ticketmaster-discovery",
-    "lastAttempt": "2026-09-15T05:58:05.332Z",
+    "lastAttempt": "2026-09-16T05:47:10.123Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
@@ -64,7 +58,7 @@
   },
   {
     "id": "skiddle",
-    "lastAttempt": "2026-09-15T05:58:05.332Z",
+    "lastAttempt": "2026-09-16T05:47:10.123Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
