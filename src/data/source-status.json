@@ -1,8 +1,8 @@
 [
   {
     "id": "chester-bid",
-    "lastAttempt": "2026-09-18T05:40:05.175Z",
-    "lastSuccess": "2026-09-18T05:40:05.175Z",
+    "lastAttempt": "2026-09-19T05:34:51.221Z",
+    "lastSuccess": "2026-09-19T05:34:51.221Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 60,
@@ -16,31 +16,37 @@
   },
   {
     "id": "telfords-warehouse",
-    "lastAttempt": "2026-09-18T05:40:05.175Z",
-    "lastSuccess": "2026-09-18T05:40:05.175Z",
+    "lastAttempt": "2026-09-19T05:34:51.221Z",
+    "lastSuccess": "2026-09-19T05:34:51.221Z",
     "parserVersion": "1.2.0",
     "state": "ok",
-    "candidates": 31,
+    "candidates": 30,
     "excluded": {
       "locality": 0,
       "scope": 0,
       "expired": 0
     },
-    "count": 31,
-    "message": "31 current local events verified"
+    "count": 30,
+    "message": "30 current local events verified"
   },
   {
     "id": "that-beer-place",
-    "lastAttempt": "2026-09-18T05:40:05.175Z",
-    "lastSuccess": "2026-09-17T05:54:14.178Z",
+    "lastAttempt": "2026-09-19T05:34:51.221Z",
+    "lastSuccess": "2026-09-19T05:34:51.221Z",
     "parserVersion": "1.2.0",
-    "state": "error",
+    "state": "ok",
+    "candidates": 0,
+    "excluded": {
+      "locality": 0,
+      "scope": 0,
+      "expired": 0
+    },
     "count": 0,
-    "message": "Publisher returned invalid JSON"
+    "message": "0 current local events verified"
   },
   {
     "id": "cheshire-swing-cats",
-    "lastAttempt": "2026-09-18T05:40:05.175Z",
+    "lastAttempt": "2026-09-19T05:34:51.221Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "error",
@@ -49,7 +55,7 @@
   },
   {
     "id": "ticketmaster-discovery",
-    "lastAttempt": "2026-09-18T05:40:05.175Z",
+    "lastAttempt": "2026-09-19T05:34:51.221Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
@@ -58,7 +64,7 @@
   },
   {
     "id": "skiddle",
-    "lastAttempt": "2026-09-18T05:40:05.175Z",
+    "lastAttempt": "2026-09-19T05:34:51.221Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
