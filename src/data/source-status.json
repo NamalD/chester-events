@@ -1,38 +1,32 @@
 [
   {
     "id": "chester-bid",
-    "lastAttempt": "2026-09-24T05:56:35.290Z",
-    "lastSuccess": "2026-09-24T05:56:35.290Z",
+    "lastAttempt": "2026-09-25T05:58:43.690Z",
+    "lastSuccess": "2026-09-25T05:58:43.690Z",
     "parserVersion": "1.2.0",
     "state": "ok",
-    "candidates": 63,
+    "candidates": 64,
     "excluded": {
       "locality": 0,
       "scope": 0,
       "expired": 0
     },
-    "count": 63,
-    "message": "63 current local events verified"
+    "count": 64,
+    "message": "64 current local events verified; missing listings retained for rechecking"
   },
   {
     "id": "telfords-warehouse",
-    "lastAttempt": "2026-09-24T05:56:35.290Z",
+    "lastAttempt": "2026-09-25T05:58:43.690Z",
     "lastSuccess": "2026-09-24T05:56:35.290Z",
     "parserVersion": "1.2.0",
-    "state": "ok",
-    "candidates": 29,
-    "excluded": {
-      "locality": 0,
-      "scope": 0,
-      "expired": 0
-    },
-    "count": 29,
-    "message": "29 current local events verified; missing listings retained for rechecking"
+    "state": "error",
+    "count": 30,
+    "message": "Could not verify publisher robots rules"
   },
   {
     "id": "that-beer-place",
-    "lastAttempt": "2026-09-24T05:56:35.290Z",
-    "lastSuccess": "2026-09-24T05:56:35.290Z",
+    "lastAttempt": "2026-09-25T05:58:43.690Z",
+    "lastSuccess": "2026-09-25T05:58:43.690Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 0,
@@ -46,7 +40,7 @@
   },
   {
     "id": "cheshire-swing-cats",
-    "lastAttempt": "2026-09-24T05:56:35.290Z",
+    "lastAttempt": "2026-09-25T05:58:43.690Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "error",
@@ -55,7 +49,7 @@
   },
   {
     "id": "ticketmaster-discovery",
-    "lastAttempt": "2026-09-24T05:56:35.290Z",
+    "lastAttempt": "2026-09-25T05:58:43.690Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
@@ -64,7 +58,7 @@
   },
   {
     "id": "skiddle",
-    "lastAttempt": "2026-09-24T05:56:35.290Z",
+    "lastAttempt": "2026-09-25T05:58:43.690Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
