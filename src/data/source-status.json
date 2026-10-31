@@ -1,38 +1,38 @@
 [
   {
     "id": "chester-bid",
-    "lastAttempt": "2026-10-30T08:20:17.678Z",
-    "lastSuccess": "2026-10-30T08:20:17.678Z",
+    "lastAttempt": "2026-10-31T08:10:31.976Z",
+    "lastSuccess": "2026-10-31T08:10:31.976Z",
     "parserVersion": "1.2.0",
     "state": "ok",
-    "candidates": 72,
+    "candidates": 69,
     "excluded": {
       "locality": 0,
       "scope": 0,
       "expired": 0
     },
-    "count": 72,
-    "message": "72 current local events verified; missing listings retained for rechecking"
+    "count": 69,
+    "message": "69 current local events verified; missing listings retained for rechecking"
   },
   {
     "id": "telfords-warehouse",
-    "lastAttempt": "2026-10-30T08:20:17.678Z",
-    "lastSuccess": "2026-10-30T08:20:17.678Z",
+    "lastAttempt": "2026-10-31T08:10:31.976Z",
+    "lastSuccess": "2026-10-31T08:10:31.976Z",
     "parserVersion": "1.2.0",
     "state": "ok",
-    "candidates": 30,
+    "candidates": 29,
     "excluded": {
       "locality": 0,
       "scope": 0,
       "expired": 0
     },
-    "count": 30,
-    "message": "30 current local events verified"
+    "count": 29,
+    "message": "29 current local events verified"
   },
   {
     "id": "that-beer-place",
-    "lastAttempt": "2026-10-30T08:20:17.678Z",
-    "lastSuccess": "2026-10-30T08:20:17.678Z",
+    "lastAttempt": "2026-10-31T08:10:31.976Z",
+    "lastSuccess": "2026-10-31T08:10:31.976Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 0,
@@ -46,7 +46,7 @@
   },
   {
     "id": "cheshire-swing-cats",
-    "lastAttempt": "2026-10-30T08:20:17.678Z",
+    "lastAttempt": "2026-10-31T08:10:31.976Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "error",
@@ -55,7 +55,7 @@
   },
   {
     "id": "ticketmaster-discovery",
-    "lastAttempt": "2026-10-30T08:20:17.678Z",
+    "lastAttempt": "2026-10-31T08:10:31.976Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
@@ -64,7 +64,7 @@
   },
   {
     "id": "skiddle",
-    "lastAttempt": "2026-10-30T08:20:17.678Z",
+    "lastAttempt": "2026-10-31T08:10:31.976Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
