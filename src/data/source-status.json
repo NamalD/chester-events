@@ -1,23 +1,23 @@
 [
   {
     "id": "chester-bid",
-    "lastAttempt": "2026-11-04T08:48:51.827Z",
-    "lastSuccess": "2026-11-04T08:48:51.827Z",
+    "lastAttempt": "2026-11-05T09:11:53.005Z",
+    "lastSuccess": "2026-11-05T09:11:53.005Z",
     "parserVersion": "1.2.0",
     "state": "ok",
-    "candidates": 62,
+    "candidates": 64,
     "excluded": {
       "locality": 0,
       "scope": 0,
       "expired": 0
     },
-    "count": 62,
-    "message": "62 current local events verified; missing listings retained for rechecking"
+    "count": 64,
+    "message": "64 current local events verified; missing listings retained for rechecking"
   },
   {
     "id": "telfords-warehouse",
-    "lastAttempt": "2026-11-04T08:48:51.827Z",
-    "lastSuccess": "2026-11-04T08:48:51.827Z",
+    "lastAttempt": "2026-11-05T09:11:53.005Z",
+    "lastSuccess": "2026-11-05T09:11:53.005Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 29,
@@ -31,8 +31,8 @@
   },
   {
     "id": "that-beer-place",
-    "lastAttempt": "2026-11-04T08:48:51.827Z",
-    "lastSuccess": "2026-11-04T08:48:51.827Z",
+    "lastAttempt": "2026-11-05T09:11:53.005Z",
+    "lastSuccess": "2026-11-05T09:11:53.005Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 0,
@@ -46,7 +46,7 @@
   },
   {
     "id": "cheshire-swing-cats",
-    "lastAttempt": "2026-11-04T08:48:51.827Z",
+    "lastAttempt": "2026-11-05T09:11:53.005Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "error",
@@ -55,7 +55,7 @@
   },
   {
     "id": "ticketmaster-discovery",
-    "lastAttempt": "2026-11-04T08:48:51.827Z",
+    "lastAttempt": "2026-11-05T09:11:53.005Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
@@ -64,7 +64,7 @@
   },
   {
     "id": "skiddle",
-    "lastAttempt": "2026-11-04T08:48:51.827Z",
+    "lastAttempt": "2026-11-05T09:11:53.005Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
