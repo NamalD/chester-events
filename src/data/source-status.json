@@ -1,40 +1,52 @@
 [
   {
     "id": "chester-bid",
-    "lastAttempt": "2026-11-16T09:13:49.341Z",
-    "lastSuccess": "2026-11-16T09:13:49.341Z",
+    "lastAttempt": "2026-11-17T10:24:08.340Z",
+    "lastSuccess": "2026-11-17T10:24:08.340Z",
     "parserVersion": "1.2.0",
     "state": "ok",
-    "candidates": 64,
+    "candidates": 63,
     "excluded": {
       "locality": 0,
       "scope": 0,
       "expired": 0
     },
-    "count": 64,
-    "message": "64 current local events verified; missing listings retained for rechecking"
+    "count": 63,
+    "message": "63 current local events verified; missing listings retained for rechecking"
   },
   {
     "id": "telfords-warehouse",
-    "lastAttempt": "2026-11-16T09:13:49.341Z",
-    "lastSuccess": "2026-11-15T08:58:19.702Z",
+    "lastAttempt": "2026-11-17T10:24:08.340Z",
+    "lastSuccess": "2026-11-17T10:24:08.340Z",
     "parserVersion": "1.2.0",
-    "state": "error",
-    "count": 25,
-    "message": "Publisher returned invalid JSON"
+    "state": "ok",
+    "candidates": 24,
+    "excluded": {
+      "locality": 0,
+      "scope": 0,
+      "expired": 0
+    },
+    "count": 24,
+    "message": "24 current local events verified"
   },
   {
     "id": "that-beer-place",
-    "lastAttempt": "2026-11-16T09:13:49.341Z",
-    "lastSuccess": "2026-11-15T08:58:19.702Z",
+    "lastAttempt": "2026-11-17T10:24:08.340Z",
+    "lastSuccess": "2026-11-17T10:24:08.340Z",
     "parserVersion": "1.2.0",
-    "state": "error",
+    "state": "ok",
+    "candidates": 0,
+    "excluded": {
+      "locality": 0,
+      "scope": 0,
+      "expired": 0
+    },
     "count": 0,
-    "message": "Publisher returned invalid JSON"
+    "message": "0 current local events verified"
   },
   {
     "id": "cheshire-swing-cats",
-    "lastAttempt": "2026-11-16T09:13:49.341Z",
+    "lastAttempt": "2026-11-17T10:24:08.340Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "error",
@@ -43,7 +55,7 @@
   },
   {
     "id": "ticketmaster-discovery",
-    "lastAttempt": "2026-11-16T09:13:49.341Z",
+    "lastAttempt": "2026-11-17T10:24:08.340Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
@@ -52,7 +64,7 @@
   },
   {
     "id": "skiddle",
-    "lastAttempt": "2026-11-16T09:13:49.341Z",
+    "lastAttempt": "2026-11-17T10:24:08.340Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
