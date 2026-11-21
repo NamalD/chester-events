@@ -1,57 +1,5 @@
 [
   {
-    "id": "252709f5e8c774dd",
-    "title": "GROTTO ON THE SQUARE",
-    "description": "",
-    "startDate": "2026-11-20",
-    "endDate": "2026-12-24",
-    "startTime": null,
-    "startUtc": null,
-    "endUtc": null,
-    "timezone": "Europe/London",
-    "allDay": true,
-    "venue": null,
-    "address": null,
-    "latitude": null,
-    "longitude": null,
-    "categories": [
-      "Other"
-    ],
-    "price": null,
-    "status": "scheduled",
-    "issues": [
-      "Venue not listed"
-    ],
-    "stale": false,
-    "seriesId": null,
-    "sources": [
-      {
-        "sourceId": "chester-bid",
-        "sourceEventId": "8479",
-        "url": "https://www.chesterbid.co.uk/event/grotto-on-the-square/",
-        "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
-        "localityBasis": "source-curation",
-        "original": {
-          "title": "GROTTO ON THE SQUARE",
-          "utcStart": "2026-11-20 00:00:00",
-          "utcEnd": "2026-12-24 23:59:59",
-          "start": "2026-11-20 00:00:00",
-          "end": "2026-12-24 23:59:59",
-          "timezone": "Europe/London",
-          "venue": null,
-          "address": null,
-          "categories": [
-            "Christmas"
-          ],
-          "price": null,
-          "status": null,
-          "modified": "2026-11-02 12:09:07"
-        }
-      }
-    ]
-  },
-  {
     "id": "a2c57d06d25875af",
     "title": "BIG FAT QUIZ ON THE ROOF",
     "description": "",
@@ -82,7 +30,7 @@
         "sourceEventId": "10001899",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-11-22/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -132,7 +80,7 @@
         "sourceEventId": "10002267",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-11-23/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -182,7 +130,7 @@
         "sourceEventId": "10000704",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-11-23/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -232,7 +180,7 @@
         "sourceEventId": "8942",
         "url": "https://www.chesterbid.co.uk/event/16-days-of-activism-against-gender-based-violence/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "16 Days of Activism Against Gender-Based Violence",
@@ -282,7 +230,7 @@
         "sourceEventId": "10000311",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-11-25/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -332,7 +280,7 @@
         "sourceEventId": "8770",
         "url": "https://www.chesterbid.co.uk/event/christmas-wreath-making-at-jigsaw-2/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Christmas Wreath Making at Jigsaw",
@@ -384,7 +332,7 @@
         "sourceEventId": "8997",
         "url": "https://www.chesterbid.co.uk/event/panda-mami-chester-10th-anniversary-celebration/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Panda Mami Chester 10th Anniversary Celebration",
@@ -434,7 +382,7 @@
         "sourceEventId": "10001900",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-11-29/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -484,7 +432,7 @@
         "sourceEventId": "10002268",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-11-30/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -534,7 +482,7 @@
         "sourceEventId": "10000705",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-11-30/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -584,7 +532,7 @@
         "sourceEventId": "8983",
         "url": "https://www.chesterbid.co.uk/event/the-taste-of-the-season-at-the-hole-in-wand/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Taste of the Season at The Hole in Wand",
@@ -636,7 +584,7 @@
         "sourceEventId": "10000312",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-12-02/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -686,7 +634,7 @@
         "sourceEventId": "8654",
         "url": "https://www.chesterbid.co.uk/event/rapunzel-at-storyhouse/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Rapunzel at Storyhouse",
@@ -738,7 +686,7 @@
         "sourceEventId": "10000503",
         "url": "https://www.chesterbid.co.uk/event/chester-makers-market/2026-12-05/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Chester Makers Market",
@@ -788,7 +736,7 @@
         "sourceEventId": "8968",
         "url": "https://www.chesterbid.co.uk/event/santa-dash/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "SANTA DASH",
@@ -838,7 +786,7 @@
         "sourceEventId": "9001",
         "url": "https://www.chesterbid.co.uk/event/macaron-workshop-at-pastry-pedaleur/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Macaron Workshop at Pastry Pedaleur",
@@ -888,7 +836,7 @@
         "sourceEventId": "10001901",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-12-06/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -938,7 +886,7 @@
         "sourceEventId": "10002269",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-12-07/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -988,7 +936,7 @@
         "sourceEventId": "10000706",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-12-07/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -1038,7 +986,7 @@
         "sourceEventId": "10000313",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-12-09/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -1088,7 +1036,7 @@
         "sourceEventId": "10001902",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-12-13/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -1138,7 +1086,7 @@
         "sourceEventId": "10002270",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-12-14/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -1188,7 +1136,7 @@
         "sourceEventId": "10000707",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-12-14/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -1238,7 +1186,7 @@
         "sourceEventId": "10000314",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-12-16/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -1288,7 +1236,7 @@
         "sourceEventId": "10001903",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-12-20/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -1338,7 +1286,7 @@
         "sourceEventId": "10002271",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-12-21/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -1388,7 +1336,7 @@
         "sourceEventId": "10000708",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-12-21/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -1438,7 +1386,7 @@
         "sourceEventId": "10000315",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-12-23/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -1488,7 +1436,7 @@
         "sourceEventId": "10001904",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2026-12-27/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -1538,7 +1486,7 @@
         "sourceEventId": "10002272",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2026-12-28/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -1588,7 +1536,7 @@
         "sourceEventId": "10000709",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2026-12-28/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -1638,7 +1586,7 @@
         "sourceEventId": "10000316",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2026-12-30/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -1688,7 +1636,7 @@
         "sourceEventId": "10000504",
         "url": "https://www.chesterbid.co.uk/event/chester-makers-market/2027-01-02/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Chester Makers Market",
@@ -1738,7 +1686,7 @@
         "sourceEventId": "10001905",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2027-01-03/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -1788,7 +1736,7 @@
         "sourceEventId": "10002273",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2027-01-04/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -1838,7 +1786,7 @@
         "sourceEventId": "10000710",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2027-01-04/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -1888,7 +1836,7 @@
         "sourceEventId": "10000317",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2027-01-06/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -1938,7 +1886,7 @@
         "sourceEventId": "10001906",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2027-01-10/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -1988,7 +1936,7 @@
         "sourceEventId": "10002274",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2027-01-11/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -2038,7 +1986,7 @@
         "sourceEventId": "10000711",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2027-01-11/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -2088,7 +2036,7 @@
         "sourceEventId": "10000318",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2027-01-13/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -2138,7 +2086,7 @@
         "sourceEventId": "10001907",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2027-01-17/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -2188,7 +2136,7 @@
         "sourceEventId": "10002275",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2027-01-18/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -2238,7 +2186,7 @@
         "sourceEventId": "10000712",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2027-01-18/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -2288,7 +2236,7 @@
         "sourceEventId": "10000319",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2027-01-20/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -2338,7 +2286,7 @@
         "sourceEventId": "10001908",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2027-01-24/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -2388,7 +2336,7 @@
         "sourceEventId": "10002276",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2027-01-25/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -2438,7 +2386,7 @@
         "sourceEventId": "10000713",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2027-01-25/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -2488,7 +2436,7 @@
         "sourceEventId": "10000320",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2027-01-27/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -2538,7 +2486,7 @@
         "sourceEventId": "10001909",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2027-01-31/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -2588,7 +2536,7 @@
         "sourceEventId": "10002277",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2027-02-01/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -2638,7 +2586,7 @@
         "sourceEventId": "10000714",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2027-02-01/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -2688,7 +2636,7 @@
         "sourceEventId": "10000321",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2027-02-03/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -2738,7 +2686,7 @@
         "sourceEventId": "10000505",
         "url": "https://www.chesterbid.co.uk/event/chester-makers-market/2027-02-06/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Chester Makers Market",
@@ -2788,7 +2736,7 @@
         "sourceEventId": "10001910",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2027-02-07/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -2838,7 +2786,7 @@
         "sourceEventId": "10002278",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2027-02-08/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -2888,7 +2836,7 @@
         "sourceEventId": "10000715",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2027-02-08/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -2938,7 +2886,7 @@
         "sourceEventId": "10000322",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2027-02-10/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -2988,7 +2936,7 @@
         "sourceEventId": "10001911",
         "url": "https://www.chesterbid.co.uk/event/big-fat-quiz-on-the-roof-2/2027-02-14/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "BIG FAT QUIZ ON THE ROOF",
@@ -3038,7 +2986,7 @@
         "sourceEventId": "10002279",
         "url": "https://www.chesterbid.co.uk/event/the-coach-house-quiz-night/2027-02-15/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "The Coach House Quiz Night",
@@ -3088,7 +3036,7 @@
         "sourceEventId": "10000716",
         "url": "https://www.chesterbid.co.uk/event/quiz-night-at-the-liverpool-arms/2027-02-15/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Quiz Night at the Liverpool Arms",
@@ -3138,7 +3086,7 @@
         "sourceEventId": "10000323",
         "url": "https://www.chesterbid.co.uk/event/cinema-night-at-chez-jules/2027-02-17/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "localityBasis": "source-curation",
         "original": {
           "title": "Cinema Night at Chez Jules",
@@ -3153,6 +3101,58 @@
           "price": "£27.50",
           "status": null,
           "modified": "2026-07-10 09:56:01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "252709f5e8c774dd",
+    "title": "GROTTO ON THE SQUARE",
+    "description": "",
+    "startDate": "2026-11-20",
+    "endDate": "2026-12-24",
+    "startTime": null,
+    "startUtc": null,
+    "endUtc": null,
+    "timezone": "Europe/London",
+    "allDay": true,
+    "venue": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "categories": [
+      "Other"
+    ],
+    "price": null,
+    "status": "scheduled",
+    "issues": [
+      "Venue not listed"
+    ],
+    "stale": true,
+    "seriesId": null,
+    "sources": [
+      {
+        "sourceId": "chester-bid",
+        "sourceEventId": "8479",
+        "url": "https://www.chesterbid.co.uk/event/grotto-on-the-square/",
+        "bookingUrl": null,
+        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "localityBasis": "source-curation",
+        "original": {
+          "title": "GROTTO ON THE SQUARE",
+          "utcStart": "2026-11-20 00:00:00",
+          "utcEnd": "2026-12-24 23:59:59",
+          "start": "2026-11-20 00:00:00",
+          "end": "2026-12-24 23:59:59",
+          "timezone": "Europe/London",
+          "venue": null,
+          "address": null,
+          "categories": [
+            "Christmas"
+          ],
+          "price": null,
+          "status": null,
+          "modified": "2026-11-02 12:09:07"
         }
       }
     ]
@@ -3314,69 +3314,6 @@
     ]
   },
   {
-    "id": "7dc0ff7ace988f22",
-    "title": "Josh Gibbons",
-    "description": "Tickets £4 (See Link Above)",
-    "startDate": "2026-11-20",
-    "endDate": "2026-11-20",
-    "startTime": "20:00",
-    "startUtc": "2026-11-20T20:00:00.000Z",
-    "endUtc": "2026-11-20T23:30:00.000Z",
-    "timezone": "Europe/London",
-    "allDay": false,
-    "venue": "Telford’s Warehouse",
-    "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
-    "latitude": null,
-    "longitude": null,
-    "categories": [
-      "Music"
-    ],
-    "price": null,
-    "status": "scheduled",
-    "issues": [],
-    "stale": false,
-    "seriesId": null,
-    "sources": [
-      {
-        "sourceId": "telfords-warehouse",
-        "sourceEventId": "6126",
-        "url": "https://www.telfordswarehousechester.com/event/josh-gibbons-2/",
-        "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
-        "original": {
-          "title": "Josh Gibbons",
-          "utcStart": "2026-11-20 20:00:00",
-          "utcEnd": "2026-11-20 23:30:00",
-          "start": "2026-11-20 20:00:00",
-          "end": "2026-11-20 23:30:00",
-          "timezone": "Europe/London",
-          "venue": "Telford’s Warehouse",
-          "address": "Canal Basin, Tower Wharf, Chester, CH1 4EZ",
-          "categories": [
-            "Events",
-            "Gigs",
-            "Live music",
-            "cheshire",
-            "Chester",
-            "Event",
-            "folk",
-            "folk music",
-            "Gig",
-            "guitar",
-            "indie music",
-            "Josh Gibbons",
-            "Music",
-            "rock",
-            "Telford's Warehouse"
-          ],
-          "price": null,
-          "status": null,
-          "modified": "2026-10-13 11:39:09"
-        }
-      }
-    ]
-  },
-  {
     "id": "3f7346bc872d1b23",
     "title": "Get The Punk Out",
     "description": "Tickets £4 (See Link Above) Made up of members from bands such as Ego King and Super Furry Arteries. Get The Punk Out arrive with their incredible collection of early Punk and New Wave covers. Expect foot stomping classics and a lot of energy with Get The Punk Out!",
@@ -3405,7 +3342,7 @@
         "sourceEventId": "6067",
         "url": "https://www.telfordswarehousechester.com/event/get-the-punk-out-2/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Get The Punk Out",
           "utcStart": "2026-11-21 20:00:00",
@@ -3465,7 +3402,7 @@
         "sourceEventId": "6051",
         "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-233/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Telford’s Quiz",
           "utcStart": "2026-11-23 20:30:00",
@@ -3521,7 +3458,7 @@
         "sourceEventId": "6000",
         "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-97/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Paint Republic",
           "utcStart": "2026-11-24 19:00:00",
@@ -3579,7 +3516,7 @@
         "sourceEventId": "6139",
         "url": "https://www.telfordswarehousechester.com/event/vinyl-flip/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Vinyl Flip",
           "utcStart": "2026-11-27 20:00:00",
@@ -3642,7 +3579,7 @@
         "sourceEventId": "6041",
         "url": "https://www.telfordswarehousechester.com/event/the-loving-cup-7/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Loving Cup",
           "utcStart": "2026-11-28 20:00:00",
@@ -3703,7 +3640,7 @@
         "sourceEventId": "6053",
         "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-234/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Telford’s Quiz",
           "utcStart": "2026-11-30 20:30:00",
@@ -3759,7 +3696,7 @@
         "sourceEventId": "5995",
         "url": "https://www.telfordswarehousechester.com/event/martyn-joseph-6/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Martyn Joseph (Sold Out)",
           "utcStart": "2026-12-01 19:00:00",
@@ -3821,7 +3758,7 @@
         "sourceEventId": "6037",
         "url": "https://www.telfordswarehousechester.com/event/martyn-joseph-2nd-show/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Martyn Joseph (2nd Show)",
           "utcStart": "2026-12-02 20:00:00",
@@ -3881,7 +3818,7 @@
         "sourceEventId": "6098",
         "url": "https://www.telfordswarehousechester.com/event/the-c90s-6/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The C90s",
           "utcStart": "2026-12-04 20:00:00",
@@ -3944,7 +3881,7 @@
         "sourceEventId": "6079",
         "url": "https://www.telfordswarehousechester.com/event/ego-king-8/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Ego King",
           "utcStart": "2026-12-05 20:00:00",
@@ -4006,7 +3943,7 @@
         "sourceEventId": "6082",
         "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-227/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Telford’s Quiz",
           "utcStart": "2026-12-07 20:30:00",
@@ -4062,7 +3999,7 @@
         "sourceEventId": "6158",
         "url": "https://www.telfordswarehousechester.com/event/beer-carols-3/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Beer & Carols",
           "utcStart": "2026-12-09 20:00:00",
@@ -4116,7 +4053,7 @@
         "sourceEventId": "6161",
         "url": "https://www.telfordswarehousechester.com/event/beer-carols-night-2-2/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Beer & Carols Night 2",
           "utcStart": "2026-12-10 20:00:00",
@@ -4170,7 +4107,7 @@
         "sourceEventId": "6092",
         "url": "https://www.telfordswarehousechester.com/event/revox-6/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Revox",
           "utcStart": "2026-12-11 20:00:00",
@@ -4232,7 +4169,7 @@
         "sourceEventId": "6136",
         "url": "https://www.telfordswarehousechester.com/event/super-furry-arteries-4/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Super Furry Arteries",
           "utcStart": "2026-12-12 20:00:00",
@@ -4295,7 +4232,7 @@
         "sourceEventId": "6084",
         "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-235/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Telford’s Quiz",
           "utcStart": "2026-12-14 20:30:00",
@@ -4351,7 +4288,7 @@
         "sourceEventId": "6002",
         "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-98/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Paint Republic",
           "utcStart": "2026-12-15 19:00:00",
@@ -4409,7 +4346,7 @@
         "sourceEventId": "6170",
         "url": "https://www.telfordswarehousechester.com/event/telfords-christmas-burlesque-and-variety-cabaret/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Telfords Christmas Burlesque and Variety Cabaret",
           "utcStart": "2026-12-17 19:30:00",
@@ -4464,7 +4401,7 @@
         "sourceEventId": "6102",
         "url": "https://www.telfordswarehousechester.com/event/evil-badger-9/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Evil Badger",
           "utcStart": "2026-12-18 20:00:00",
@@ -4528,7 +4465,7 @@
         "sourceEventId": "6076",
         "url": "https://www.telfordswarehousechester.com/event/safehouse-9/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Safehouse",
           "utcStart": "2026-12-19 20:00:00",
@@ -4590,7 +4527,7 @@
         "sourceEventId": "6086",
         "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-236/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Telford’s Quiz",
           "utcStart": "2026-12-21 20:30:00",
@@ -4646,7 +4583,7 @@
         "sourceEventId": "6168",
         "url": "https://www.telfordswarehousechester.com/event/the-telfords-quiz-237/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Telford’s Quiz",
           "utcStart": "2026-12-28 20:30:00",
@@ -4702,7 +4639,7 @@
         "sourceEventId": "6089",
         "url": "https://www.telfordswarehousechester.com/event/telfords-studio-26-nye-disco-or-die/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "Telford’s Studio 26 NYE Disco Or Die",
           "utcStart": "2026-12-31 19:00:00",
@@ -4762,7 +4699,7 @@
         "sourceEventId": "6154",
         "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-92/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Paint Republic",
           "utcStart": "2027-01-12 19:00:00",
@@ -4817,7 +4754,7 @@
         "sourceEventId": "6156",
         "url": "https://www.telfordswarehousechester.com/event/the-paint-republic-94/",
         "bookingUrl": null,
-        "checkedAt": "2026-11-20T09:50:32.508Z",
+        "checkedAt": "2026-11-21T09:25:08.296Z",
         "original": {
           "title": "The Paint Republic",
           "utcStart": "2027-01-26 19:00:00",
