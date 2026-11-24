@@ -1,38 +1,38 @@
 [
   {
     "id": "chester-bid",
-    "lastAttempt": "2026-11-23T10:29:39.121Z",
-    "lastSuccess": "2026-11-23T10:29:39.121Z",
+    "lastAttempt": "2026-11-24T12:11:23.880Z",
+    "lastSuccess": "2026-11-24T12:11:23.880Z",
     "parserVersion": "1.2.0",
     "state": "ok",
-    "candidates": 62,
+    "candidates": 63,
     "excluded": {
       "locality": 0,
       "scope": 0,
       "expired": 0
     },
-    "count": 62,
-    "message": "62 current local events verified; missing listings retained for rechecking"
+    "count": 63,
+    "message": "63 current local events verified; missing listings retained for rechecking"
   },
   {
     "id": "telfords-warehouse",
-    "lastAttempt": "2026-11-23T10:29:39.121Z",
-    "lastSuccess": "2026-11-23T10:29:39.121Z",
+    "lastAttempt": "2026-11-24T12:11:23.880Z",
+    "lastSuccess": "2026-11-24T12:11:23.880Z",
     "parserVersion": "1.2.0",
     "state": "ok",
-    "candidates": 24,
+    "candidates": 22,
     "excluded": {
       "locality": 0,
       "scope": 0,
       "expired": 0
     },
-    "count": 24,
-    "message": "24 current local events verified"
+    "count": 22,
+    "message": "22 current local events verified; missing listings retained for rechecking"
   },
   {
     "id": "that-beer-place",
-    "lastAttempt": "2026-11-23T10:29:39.121Z",
-    "lastSuccess": "2026-11-23T10:29:39.121Z",
+    "lastAttempt": "2026-11-24T12:11:23.880Z",
+    "lastSuccess": "2026-11-24T12:11:23.880Z",
     "parserVersion": "1.2.0",
     "state": "ok",
     "candidates": 0,
@@ -46,7 +46,7 @@
   },
   {
     "id": "cheshire-swing-cats",
-    "lastAttempt": "2026-11-23T10:29:39.121Z",
+    "lastAttempt": "2026-11-24T12:11:23.880Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "error",
@@ -55,7 +55,7 @@
   },
   {
     "id": "ticketmaster-discovery",
-    "lastAttempt": "2026-11-23T10:29:39.121Z",
+    "lastAttempt": "2026-11-24T12:11:23.880Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
@@ -64,7 +64,7 @@
   },
   {
     "id": "skiddle",
-    "lastAttempt": "2026-11-23T10:29:39.121Z",
+    "lastAttempt": "2026-11-24T12:11:23.880Z",
     "lastSuccess": null,
     "parserVersion": "1.2.0",
     "state": "not_configured",
